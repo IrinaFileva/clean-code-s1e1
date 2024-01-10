@@ -34,7 +34,7 @@
 
 .label,
 .list-item__input,
-.new-task__input{
+.new-task__input {
   width: 56%;
   display: inline-block;
   flex-grow: 1;
@@ -55,7 +55,7 @@
 }
 
 .input,
-.button{
+.button {
   outline: none;
 }
 
@@ -136,7 +136,7 @@
   width: 226px;
 }
 
-.list-item >    .input[type="text"] {
+.list-item > .input[type="text"] {
   width: 226px;
 }
 
